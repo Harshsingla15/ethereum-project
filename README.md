@@ -7,13 +7,6 @@ MyToken is a basic Ethereum smart contract written in Solidity that implements a
 
 The MyToken contract provides a simple implementation of a custom token on the Ethereum blockchain. It includes functionalities for minting new tokens, burning existing tokens, and keeping track of token balances for different addresses. 
 
-Key features of the MyToken contract:
-
-* Public variables to store the token's name, abbreviation, and total supply.
-* A mapping to associate addresses with their token balances.
-* A mint function to increase the total supply and balance of a specified address.
-* A burn function to decrease the total supply and balance of a specified address, with a check to ensure sufficient balance.
-
 ## Getting Started 
 
 ### Installing
